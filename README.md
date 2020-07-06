@@ -10,3 +10,7 @@
 > I also inherited soldiers from militaryUnit class in case of adding more military units (they all will have movement script) like flying soldiers, tanks, horse etc. and add a small script to soldier just to show implementation.
 > Unity's Entity and math class is used in A* path finding algorithms. 
 > Resharper is used too.
+
+# Controls
+
+WASD can be used for camera mvement and mouse wheel is used for camera zoom.
