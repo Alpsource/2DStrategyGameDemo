@@ -13,4 +13,5 @@
 
 # Controls
 
-WASD can be used for camera mvement and mouse wheel is used for camera zoom.
+WASD can be used for camera movement and mouse wheel is used for camera zoom.
+Left Click for selecting, right click for moving soldiers.
